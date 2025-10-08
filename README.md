@@ -33,5 +33,3 @@ g++ AntColonyOptimization.cpp -o aco
 ./aco
 
 
-## Example Output
-
